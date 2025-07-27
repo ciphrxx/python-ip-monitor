@@ -1,5 +1,3 @@
-For best view, open this file on GitHub or in a Markdown-friendly editor like VS Code.
-
 # 🛡️ Python Mini Network Monitoring Script
 
 
@@ -50,7 +48,7 @@ For best view, open this file on GitHub or in a Markdown-friendly editor like VS
 
 
 
-This tool can help you quickly detect if your system connects to specific IP addresses — which can be useful for spotting unwanted connections, testing software behavior, or tracking outbound traffic during security analysis. It's not a full firewall, but a lightweight monitoring script that gives you better visibility into your system’s network activity. Ideal for students, ethical hackers, or anyone learning how to apply Python in real-world cybersecurity scenarios.
+This tool can help you quickly detect if your system connects to specific IP addresses, which can be useful for spotting unwanted connections, testing software behavior, or tracking outbound traffic during security analysis. It's not a full firewall, but a lightweight monitoring script that gives you better visibility into your system’s network activity. Ideal for students, ethical hackers, or anyone learning how to apply Python in real-world cybersecurity scenarios.
 
 
 
@@ -70,7 +68,7 @@ This tool can help you quickly detect if your system connects to specific IP add
 
 ###### 
 
-\[psutil]([https://pypi.org/project/psutil/](https://pypi.org/project/psutil/)) — For accessing system-level network info
+[psutil](https://pypi.org/project/psutil/) — For accessing system-level network info
 
 ###### 
 
@@ -196,7 +194,7 @@ This project is licensed under the MIT License.
 
 
 
-See the \[LICENSE]([./LICENSE](./LICENSE)) file for full details.
+See the [LICENSE](./LICENSE) file for full details.
 
 
 
@@ -220,7 +218,7 @@ Copyright (c) 2025 Daniel Goropceanu
 
 
 
-Built by Daniel Goropceanu (\[@ciphrxx]([https://github.com/ciphrxx](https://github.com/ciphrxx)))
+Built by Daniel Goropceanu ([@ciphrxx](https://github.com/ciphrxx))
 
 
 
