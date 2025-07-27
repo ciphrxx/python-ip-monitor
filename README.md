@@ -24,13 +24,13 @@
 
 ###### 
 
-\- Monitors your computer's active internet connections
+- Monitors your computer's active internet connections
 
-\- Detects connections to specific blocked IP addresses
+- Detects connections to specific blocked IP addresses
 
-\- Logs alerts to a text file
+- Logs alerts to a text file
 
-\- Runs continuously and prints live alerts to the console
+- Runs continuously and prints live alerts to the console
 
 ###### 
 
@@ -68,7 +68,7 @@ This tool can help you quickly detect if your system connects to specific IP add
 
 ###### 
 
-[psutil](https://pypi.org/project/psutil/) — For accessing system-level network info
+[psutil](https://pypi.org/project/psutil/) - For accessing system-level network info
 
 ###### 
 
